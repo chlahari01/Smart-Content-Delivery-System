@@ -1,0 +1,2 @@
+Smart CDN sample file.
+This content is replicated on srv1, srv2 and srv3.
