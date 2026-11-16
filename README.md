@@ -2,7 +2,7 @@
 
 SDN-Socket Programming, Jackfruit Mini Project.
 
-A TCP file-delivery service running on Mininet. An OS-Ken (OpenFlow 1.3) controller chooses the backend server and the network path for every client connection, and reacts to link failures, server failures and load.
+A TCP file-delivery service running on Mininet. An OS-Ken (OpenFlow 1.3) controller chooses the backend server and the network path for every client connection, and reacts to link failures, server failures, and load.
 
 ## What is in this repository
 
@@ -50,5 +50,6 @@ The full table, method and analysis are in the project report and in `smart-cdn-
 | Member | SRN |
 |---|---|
 | Vendhan Bollada | PES1UG25AM078 |
-| (name to be added) | PES1UG25AM092 |
-| (name to be added) | PES1UG25AM074 |
+|Bhargav M Bhat  | PES1UG25AM092 |
+|Cheemakurthi Venkata Lahari | PES1UG25AM074 |
+
