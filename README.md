@@ -50,6 +50,6 @@ The full table, method and analysis are in the project report and in `smart-cdn-
 | Member | SRN |
 |---|---|
 | Vendhan Bollada | PES1UG25AM078 |
-|Bhargav M Bhat  | PES1UG25AM092 |
-|Cheemakurthi Venkata Lahari | PES1UG25AM074 |
+|Bhargav M Bhat  | PES1UG25AM074 |
+|Cheemakurthi Venkata Lahari | PES1UG25AM092|
 
